@@ -9,5 +9,6 @@ public class Demo01 {
 		System.out.println("finaly it is getting done");
 		System.out.println("yes success");
 		System.out.println("new branch created dev");
+		System.out.println("ready to mearge");
 	}
 }
