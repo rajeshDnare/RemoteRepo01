@@ -6,5 +6,6 @@ public class Demo01 {
 	@Test
 	public void product() {
 		System.out.println("This is just practice");
+		System.out.println("finaly it is getting done");
 	}
 }
